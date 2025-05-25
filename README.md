@@ -1,16 +1,8 @@
-# medicine_app
+## This repo describe using supabase with Getx methods (controller, model, view, routes management)
 
-A new Flutter project.
+## Note:
+- Change in `main` with your public key & url of medicine projects
+![code](https://github.com/user-attachments/assets/eab5531d-967a-4126-9c9c-dd8fa480e648)
+- DO NOT USE `Getx` WITH `Stateful widget`!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Good luck, and happy coding!
